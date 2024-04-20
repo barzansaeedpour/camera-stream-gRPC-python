@@ -1,0 +1,6 @@
+/client/env
+/server/env
+client/__pycache__
+client/saved_images
+server/saved_images
+server/__pycache__
